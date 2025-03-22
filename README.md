@@ -21,7 +21,7 @@ The objective of this guide is to demonstrate how to:
 
 ### **2. Create a New VHD**  
 - Click **Action** (top menu) → **Create VHD**.  
-<img src="https://github.com/user-attachments/assets/9d5a917b-cdbc-42e7-a8bf-f612cce8cc0a" height="300" width=600>
+<img src="https://github.com/user-attachments/assets/9d5a917b-cdbc-42e7-a8bf-f612cce8cc0a" height="200" width=600>
 
 ### **3. Choose File Location & Size**  
 - Click **Browse** and select where to save the VHD file (e.g, `C:\new VHD.vhd`)
